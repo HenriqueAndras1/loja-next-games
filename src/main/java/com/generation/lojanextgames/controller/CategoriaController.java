@@ -1,4 +1,4 @@
-package com.generation.lojaxpgames.controller;
+package com.generation.lojanextgames.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -18,8 +18,8 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.generation.lojaxpgames.model.Categoria;
-import com.generation.lojaxpgames.repository.CategoriaRepository;
+import com.generation.lojanextgames.model.Categoria;
+import com.generation.lojanextgames.repository.CategoriaRepository;
 
 import jakarta.validation.Valid;
 

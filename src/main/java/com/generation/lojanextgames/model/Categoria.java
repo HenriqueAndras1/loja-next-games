@@ -1,4 +1,4 @@
-package com.generation.lojaxpgames.model;
+package com.generation.lojanextgames.model;
 
 import java.util.List;
 

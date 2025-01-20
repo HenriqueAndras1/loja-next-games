@@ -1,10 +1,10 @@
-package com.generation.lojaxpgames;
+package com.generation.lojanextgames;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LojaxpgamesApplicationTests {
+class LojanextgamesApplicationTests {
 
 	@Test
 	void contextLoads() {

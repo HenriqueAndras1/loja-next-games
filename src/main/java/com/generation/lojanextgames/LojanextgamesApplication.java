@@ -1,13 +1,13 @@
-package com.generation.lojaxpgames;
+package com.generation.lojanextgames;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LojaxpgamesApplication {
+public class LojanextgamesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LojaxpgamesApplication.class, args);
+		SpringApplication.run(LojanextgamesApplication.class, args);
 	}
 
 }
