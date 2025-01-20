@@ -1,5 +1,10 @@
 package com.generation.lojanextgames.security;
 
+/*A Classe UserDetailsServiceImpl é uma implementação da Interface UserDetailsService,
+ *  responsável por validar a existência de um usuário no sistema através do Banco de dados e retornar um Objeto da Classe UserDetailsImpl 
+ *  (implementada no passo anterior), com os dados do Objeto encontrado no Banco de dados. A busca será feita através do atributo usuario (e-mail).
+ */
+
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;

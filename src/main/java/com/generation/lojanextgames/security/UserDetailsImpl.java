@@ -1,5 +1,10 @@
 package com.generation.lojanextgames.security;
 
+/*A Classe UserDetailsImpl implementa a Interface UserDetails,
+ *  que tem como principal funcionalidade fornecer as informações básicas do usuário para o Spring Security 
+ *  (Usuário, Senha, Direitos de acesso e as Restrições da conta).
+ */
+
 import java.util.Collection;
 import java.util.List;
 
